@@ -4,8 +4,8 @@ The goal is to create a website where users can find instructions about how to u
 
 All contributions are welcome!
 
-Project coordinators: @BTCparadigm and @yahiheb
+Project coordinators: [@BTCparadigm](https://github.com/BTCparadigm) and [@yahiheb](https://github.com/yahiheb)
 
-Repository lead maintainer: @yahiheb
+Repository lead maintainer: [@yahiheb](https://github.com/yahiheb)
 
-Graphical design: @CAnorbo
+Graphical design: [@CAnorbo](https://github.com/CAnorbo)
