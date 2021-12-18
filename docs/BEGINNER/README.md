@@ -1,0 +1,1 @@
+Beginner-level instructions on how to use Wasabi Wallet 2.0

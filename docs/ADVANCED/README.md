@@ -1,0 +1,1 @@
+Advanced-level explanations on how Wasabi Wallet 2.0 works under the hood
